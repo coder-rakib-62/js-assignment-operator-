@@ -78,6 +78,7 @@ console.log(a > 5);
 // }
 
 // grade example
+// letter grade task solution
 let score = 32;
 
 if (score >= 80) {
