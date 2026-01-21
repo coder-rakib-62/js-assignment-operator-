@@ -43,13 +43,13 @@ console.log(a > 5);
 
 // js logical operator
 
-// let userName = "Rakib";
-// let password = "12345";
-// if (userName && password) {
-//   console.log("login success");
-// } else {
-//   console.log("login failed");
-// }
+let userName = "Rakib";
+let password = "12345";
+if (userName && password) {
+  console.log("login success");
+} else {
+  console.log("login failed");
+}
 
 // let age = 20;
 // let hasID = true;
@@ -76,8 +76,6 @@ console.log(a > 5);
 // } else {
 //   console.log("ami eita kinte prbo na ");
 // }
-
-// grade example
 // letter grade task solution
 let score = 32;
 
@@ -96,3 +94,8 @@ if (score >= 80) {
 } else {
   console.log("Failed");
 }
+
+console.log(prompt("kmn aso"));
+
+const ans = prompt("tmr name ki ?");
+console.log(ans);
